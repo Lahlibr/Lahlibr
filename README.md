@@ -1,64 +1,63 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33575955/157222830-24424745-f0e2-4752-b65f-46e2541a37c0.gif" alt="Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY4cnhucXB4a3l5OWVvYjN0dnh4ajlqYjVqZjhsbXU0dG1yOThzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoM3vanz/giphy.gif" alt="Coding Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&logo=github&color=00BFFF" alt="GitHub Followers"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+%5BYOUR_NAME%5D+%F0%9F%91%8B;A+Digital+Architect+%26+Creative+Coder;Transforming+Ideas+into+Immersive+Experiences;Let's+build+the+future%2C+one+line+of+code+at+a+time." alt="Animated Typing SVG">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+%5BYOUR_NAME%5D+%F0%9F%91%8B;I+build+things+for+the+web.;Crafting+elegant+solutions+to+complex+problems.;Let's+create+something+amazing+together." alt="Typing SVG" /></a>
+    <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="[YOUR_PORTFOLIO_URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:[YOUR_EMAIL]" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 <table>
 <tr valign="top">
-<td width="65%">
+<td width="60%">
 
-### ## 👨‍💻 About Me
+### ## 🚀 About Me
 
-I'm a **[Your Role]** based in **[Your Location]** with a deep passion for turning ideas into reality through code. My expertise lies in building scalable, user-centric web applications. I thrive in collaborative environments and am always eager to learn and adapt to new technologies.
+I'm a software engineer who finds joy in the elegant dance of logic and creativity. My passion lies in building beautiful, functional, and scalable applications that provide real-world value. I'm driven by curiosity and a commitment to lifelong learning.
 
--   🚀 Currently building a **[Project Name]**, a platform for **[Project's Purpose]**.
--   🧠 Exploring the depths of **[Technology/Field, e.g., System Design and Microservices]**.
--   💡 Ask me anything about **[Your Core Skills, e.g., React, Go, or DevOps]**.
--   📫 Let's connect! Find me on **[Your Preferred Social Platform, e.g., LinkedIn]**.
+-   🔭 **Currently Building:** A decentralized social media platform using Web3 technologies.
+-   🌱 **Learning:** Advanced concepts in Rust and exploring the world of Quantum Computing.
+-   💬 **Let's Talk About:** System architecture, clean code principles, and the future of AI.
 
-### ## 🚀 My Current Goals (for 2025)
+<br>
 
--   [ ] Ship at least 2 major side-projects.
--   [ ] Contribute to 5 impactful open-source projects.
--   [ ] Write 12 technical blog posts.
--   [ ] Master **[A specific skill, e.g., Kubernetes]**.
+### ## 🎶 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://github.com/novatorem/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USERNAME]&cover_image=true&theme=novatorem" alt="Spotify Now Playing">
+  </a>
+</p>
 
 </td>
-<td width="35%">
+<td width="40%">
 
-### ## 🛠️ My Tech Stack
+### ## 🛠️ Tech Arsenal
 
-**Frontend:**
-`React` `Next.js` `TypeScript` `TailwindCSS`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,go,python,postgres,mongodb,docker,kubernetes,aws,terraform,figma&perline=4" alt="Tech Skills"/>
+  </a>
+</p>
 
-**Backend:**
-`Node.js` `Go` `Python` `GraphQL`
+<br>
 
-**Databases:**
-`PostgreSQL` `Redis` `MongoDB`
+### ## 📊 My GitHub Pulse
 
-**DevOps & Cloud:**
-`Docker` `Kubernetes` `AWS` `Terraform`
-
-<br/>
-
-### ## 📊 My GitHub Stats
-
-<a href="https://wakatime.com/@_YOUR_WAKATIME_USERNAME_">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_WAKATIME_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats"/>
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 </td>
 </tr>
@@ -66,24 +65,14 @@ I'm a **[Your Role]** based in **[Your Location]** with a deep passion for turni
 
 ---
 
-### ## 📈 My Activity Graph
+### ## 📈 My 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=[YOUR_USERNAME]&theme=tokyonight" alt="3D Contribution Graph">
 </p>
 
 ---
 
-### ## 📝 My Recent Blog Posts
-
--   [Post Title 1](link-to-post-1)
--   [Post Title 2](link-to-post-2)
----
-
-### ## 💖 Connect & Support
-
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://github.com/sponsors/[YOUR_USERNAME]" target="_blank"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpZXZoM3p2N3l2cTVqZ2Z5eWh2dGFuc283eW9kaXE1b2JxZ2ZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdrV1yA2s7iLgI3o53/giphy.gif" width="100%">
 </p>
