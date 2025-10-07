@@ -1,130 +1,85 @@
-<h1 align="center" hight="20px" width="2000px" >Lahl ibrahim</h1>
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/banner.png" alt="Banner" width="100%"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+%5BYOUR_NAME%5D+%F0%9F%91%8B;A+passionate+%5BYOUR_ROLE%5D+from+%5BYOUR_LOCATION%5D;Always+learning+and+exploring+new+technologies." alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdul--vajid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vvajidz56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
-  </a>
-</div>
+---
+
+### ## 👨‍💻 About Me
+
+<p>I'm a passionate and results-driven <strong>[Your Role, e.g., Full-Stack Developer]</strong> with a love for creating elegant and efficient solutions. My journey in tech is fueled by a constant curiosity and a desire to build things that make a difference.</p>
+
+-   🌱 I’m currently learning **[Technology you are learning, e.g., Rust and WebAssembly]**.
+-   🔭 I’m currently working on **[A project you are working on, e.g., a real-time chat application]**.
+-   🤝 I’m looking to collaborate on **[Types of projects, e.g., open-source projects related to AI]**.
+-   💬 Ask me about **[Topics you are knowledgeable in, e.g., React, Node.js, and cloud architecture]**.
+-   📫 How to reach me: **[your.email@example.com]**
+-   ⚡ Fun fact: **[A fun fact about you, e.g., I can solve a Rubik's Cube in under a minute!]**
 
 ---
 
-## 👨‍💻 About Me
+### ## 🚀 Connect with Me
 
 <p align="center">
-  <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="[YOUR_PORTFOLIO_URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<div align="center">
-📍 Based in: <strong>Malappuram, Kerala, India</strong> | 🎓 <strong>Software Engineering Student</strong> | <strong>Dotnet developer</strong>
-<br>
-💼 Currently: <strong>Open to Full-time Opportunities & Freelancing</strong>
-<br>
-🎮 Passions: <strong>Coding, Gaming</strong>
-</div>
-<br>
+---
+
+### ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <br><br>
+  <strong>Backend:</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <br><br>
+  <strong>Database & DevOps:</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
-## 🛠 Tech Stack & Tools
-
-### 💻 Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
-  <img src="https://img.shields.io/badge/%20Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/%20HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000&color=ffffff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/%20CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000&color=ffffff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/%20Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
-</div>
-
-### 🔧 Backend & Database
-<div align="center">
-  <img src="https://img.shields.io/badge/%20Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/%20Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/%20MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/%20Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=000000&color=ffffff" alt="Firebase"/>
-</div>
-
-### ⚡ Tools & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/%20Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
-  <img src="https://img.shields.io/badge/%20GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/%20VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/%20Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/%20Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=000000&color=ffffff" alt="Linux"/>
-  <img src="https://img.shields.io/badge/%20CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
-</div>
-
----
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
-</div>
 ---
 
-## 🎯 Current Focus
-<div align="center">
-<ul>
-  <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
-  <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
-  <li>🚀 Building scalable applications with modern technologies</li>
-  <li>🔒 Exploring <strong>cybersecurity and ethical hacking</strong> methodologies</li>
-</ul>
-</div>
+### ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Platane/platane/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
+### ## ✨ My Pinned Projects
 
-## 📫 Let's Connect & Collaborate
-<div align="center">
-💬 Always open to:
-- New project opportunities & collaborations
-- Code reviews & technical discussions
-- Full-time developer roles
-- Freelance web development projects
-
-<br>
-
-📧 Reach me via:
-<br>
-<a href="https://www.linkedin.com/in/abdul--vajid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:vvajidz56@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
-</a>
-</div>
-<div align="center">
-  
-<br>
-
-⭐ Explore my repos & star your favorites!
-<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=flat" alt="Profile Views"/>
-</div>
+<p align="center">
+  *My best work is pinned below!*
+</p>
 
 ---
 
 <p align="center">
-<em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=00BFFF&style=flat-square" alt="Profile Views"/>
 </p>
