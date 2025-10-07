@@ -17,18 +17,11 @@
 
 ## 🚀 About Me
 
-const lahlIbrahim = {
-title: "Full Stack Developer & Microservices Architect",
-location: "Calicut, India 🇮🇳",
-education: "BCA @ Lovely Professional University",
-currentRole: "Full Stack Developer Intern @ Bridgeon Solutions",
+I'm a Full Stack Developer with a passion for creating efficient, scalable solutions that solve real-world problems. Currently working as an intern at Bridgeon Solutions, I specialize in building enterprise-level applications using modern technologies.
 
-text
-expertise: {
-    architecture: ["Microservices", "Event-Driven", "Domain-Driven Design", "CQRS"],
-    specialization: ["Distributed Systems", "Cloud-Native Apps", "AI Integration"],
-    passionate_about: ["System Design", "Performance Optimization", "Developer Experience"]
-},
+My expertise lies in architecting microservices with ASP.NET Core and creating intuitive user interfaces with React.js. I'm passionate about cloud technologies, containerization with Docker and Kubernetes, and implementing event-driven architectures.
+
+I believe in writing clean, maintainable code and following best practices in software development. Whether it's optimizing database queries, implementing secure authentication systems, or building responsive frontends, I approach every challenge with enthusiasm and attention to detail.
 
 currentlyWorking: [
     "🏗️ Building Locafy - Decentralized Service Marketplace",
